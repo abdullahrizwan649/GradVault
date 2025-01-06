@@ -1,4 +1,4 @@
-# Degree Verification Mobile App Based on Blockchain
+# GradVault: Degree Verification Mobile App Based on Blockchain
 
 ## Introduction
 The Degree Verification App is a decentralized solution built on blockchain technology to provide secure and tamper-proof validation of academic credentials. Using Ethereum smart contracts, it ensures that degree records are immutable and easily accessible by employers and educational institutions. The app is developed with Flutter, offering a seamless and user-friendly interface across mobile platforms. Blockchain's transparency and security make the verification process efficient, eliminating the need for manual checks. Users can verify and share their academic credentials with just a few taps. This app bridges the gap between traditional education and the modern digital world.
@@ -59,3 +59,14 @@ For `privateKey`, Open your Metamask extension > Select an Account > Account Det
 
 After that, you can enable USB debugging on your mobile, connect it with a USB to your computer and run the project with `flutter run`.
 To build the apk, use `flutter build apk --release`.
+
+## Contribution
+We welcome contributions from the community. To contribute:
+1. Fork the repository.
+2. Create a new branch for your feature or bugfix.
+3. Submit a pull request with a detailed explanation of changes.
+
+---
+
+## License
+This project is licensed under the [MIT License](LICENSE).
